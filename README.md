@@ -1,8 +1,3 @@
-# MODx Evolution向けスニペット集
-
-
-
-
 
 MODx Evolution向けスニペット集
 ====

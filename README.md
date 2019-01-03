@@ -10,7 +10,7 @@ Overview
 　利用方法は、http://www.petit-power.com/ 内の記事から探してください。
 　近いうちにここに記載予定ですが・・・。
 
-## exoirtDXモジュール＆プラグイン
+## Import/ExportDX モジュール＆プラグイン
 
 　MODx Evoで作ったページを静的HTML出力するモジュールです。
 　2009年以降のEvoで動作するかは不明です(^^;
